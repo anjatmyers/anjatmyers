@@ -1,7 +1,7 @@
 ### Andrea Myers : Junior Software Engineer
 
 
-📫 How to reach me: 
+## 📫 How to reach me: 
 * My portfolio: https://andreamyers.netlify.app/
 * My LinkedIn: https://www.linkedin.com/in/andreatmyers5/
 
