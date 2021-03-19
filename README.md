@@ -1,4 +1,9 @@
-### Hi there 👋
+### Andrea Myers : Junior Software Engineer
+
+
+📫 How to reach me: 
+* My portfolio: https://andreamyers.netlify.app/
+* My LinkedIn: https://www.linkedin.com/in/andreatmyers5/
 
 <!--
 **anjatmyers/anjatmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
