@@ -2,7 +2,6 @@
 
 <img align="right" src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="400" height="auto" />
 
-<br/>
 
 ### 📫 Connect with me: 
 
