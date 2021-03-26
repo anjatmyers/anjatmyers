@@ -15,9 +15,9 @@
 <br/>
 
 
-> I am a junior software engineer and am most passionate about building functional yet beautiful technology. I love both front-end and back-end problem-solving because each present their own unique challenges, but they are equally important to the finished product. Every time I plan a new project I am reminded of a quote that explains it perfectly: 
-<br/>
-> "Software is a great combination between artistry and engineering." -Bill Gates
+> I am a junior software engineer and am passionate about building functional yet beautiful technology. I love both front-end and back-end problem-solving because each present their own unique challenges, but they are equally important to the finished product. Every time I plan a new project I am reminded of a quote that explains it perfectly: 
+
+# "Software is a great combination between artistry and engineering." -Bill Gates
 
 
 <br />
