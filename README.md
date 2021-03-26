@@ -1,5 +1,6 @@
 ### Andrea Myers : Junior Software Engineer
 
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 ## 📫 How to reach me: 
 * Portfolio: https://andreamyers.netlify.app/
