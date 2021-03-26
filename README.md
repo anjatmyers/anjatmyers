@@ -11,8 +11,6 @@
 
 ### "Software is a great combination between artistry and engineering." -Bill Gates
 
-<br/>
-
 ### 📫 Connect with me: 
 
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://andreamyers.netlify.app/)
