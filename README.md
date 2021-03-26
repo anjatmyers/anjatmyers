@@ -4,7 +4,8 @@
 
 
 ### 📫 Connect with me: 
-
+><sup> Portfolio, Youtube, LinkedIn</sup>
+<br/>
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://andreamyers.netlify.app/)
 [<img align="left" alt="codeSTACKr | YouTube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCx4lsLytvxj2UNCUuqRnMSw/videos)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/andreatmyers5/)
