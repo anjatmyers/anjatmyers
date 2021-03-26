@@ -6,7 +6,7 @@
 * Portfolio: https://andreamyers.netlify.app/
 * LinkedIn: https://www.linkedin.com/in/andreatmyers5/
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjatmyers&show_icons=true&theme=radical)
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjatmyers&show_icons=true&theme=vue)
 
 <!--
 **anjatmyers/anjatmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
