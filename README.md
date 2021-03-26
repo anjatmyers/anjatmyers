@@ -12,8 +12,7 @@
 
 <br />
 <br/>
-<br />
-<br/>
+
 
 > I am a junior software engineer. I am passionate about building functional and beautiful technology.  
 
@@ -28,8 +27,7 @@
 
 <br />
 <br />
-<br />
-<br />
+
 
 
 ## Languages and Tools:
