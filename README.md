@@ -12,17 +12,17 @@
 
 <br />
 <br/>
+<br />
+<br/>
 
-> I am a junior software engineer. I am passionate about 
+> I am a junior software engineer. I am passionate about building functional and beautiful technology.  
 
 
 <br />
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 <!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
