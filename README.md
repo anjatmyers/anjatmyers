@@ -1,6 +1,7 @@
 ### Andrea Myers : Junior Software Engineer
+---
 
-## 📫 Connect with me: 
+### 📫 Connect with me: 
 
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://andreamyers.netlify.app/)
 [<img align="left" alt="codeSTACKr | YouTube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCx4lsLytvxj2UNCUuqRnMSw/videos)
@@ -14,7 +15,7 @@
 <br />
 
 
-### Languages and Tools:
+## Languages and Tools:
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -35,7 +36,7 @@
 <br />
 <br />
 
----
+
 
 
 
