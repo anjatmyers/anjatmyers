@@ -15,7 +15,7 @@
 <br/>
 
 
-> I am a junior software engineer and am passionate about building functional yet beautiful technology. I love both front-end and back-end problem-solving because each present their own unique challenges, but they are equally important to the finished product. Every time I plan a new project I am reminded of a quote that explains it perfectly: 
+> I'm a junior software engineer and am passionate about building functional yet beautiful technology. I love both front-end and back-end problem-solving because each present their own unique challenges, but they are equally important to the finished product. Every time I plan a new project I am reminded of a quote that explains it perfectly: 
 
 ### "Software is a great combination between artistry and engineering." -Bill Gates
 
@@ -52,8 +52,8 @@
 
 
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjatmyers&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjatmyers&layout=compact&theme=vue)](https://github.com/anjatmyers/github-readme-stats)
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjatmyers&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjatmyers&layout=compact&theme=onedark)](https://github.com/anjatmyers/github-readme-stats)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjatmyers&repo=capstone)](https://github.com/anjatmyers/capstone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjatmyers&repo=uvsafe)](https://github.com/anjatmyers/uvsafe) -->
