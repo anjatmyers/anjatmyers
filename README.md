@@ -3,9 +3,9 @@
 ## 📫 Connect with me: 
 >Portfolio/Youtube/LinkedIn
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://andreamyers.netlify.app/)
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCx4lsLytvxj2UNCUuqRnMSw/videos)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/andreatmyers5/)
+[<img align="left" alt="codeSTACKr.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://andreamyers.netlify.app/)
+[<img align="left" alt="codeSTACKr | YouTube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCx4lsLytvxj2UNCUuqRnMSw/videos)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/andreatmyers5/)
 
 
 <!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -42,8 +42,8 @@
 
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjatmyers&show_icons=true&theme=vue)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjatmyers&repo=capstone)](https://github.com/anjatmyers/capstone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjatmyers&repo=uvsafe)](https://github.com/anjatmyers/uvsafe)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjatmyers&repo=capstone)](https://github.com/anjatmyers/capstone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjatmyers&repo=uvsafe)](https://github.com/anjatmyers/uvsafe) -->
 <!--
 **anjatmyers/anjatmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
