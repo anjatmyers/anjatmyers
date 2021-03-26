@@ -52,8 +52,8 @@
 
 
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjatmyers&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjatmyers&layout=compact&theme=onedark)](https://github.com/anjatmyers/github-readme-stats)
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjatmyers&show_icons=true&theme=solarized-light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjatmyers&layout=compact&theme=solarized-light)](https://github.com/anjatmyers/github-readme-stats)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjatmyers&repo=capstone)](https://github.com/anjatmyers/capstone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjatmyers&repo=uvsafe)](https://github.com/anjatmyers/uvsafe) -->
