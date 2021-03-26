@@ -1,7 +1,5 @@
 [![Header](https://github.com/anjatmyers/anjatmyers/blob/main/laptopDaisiesCroppedWithName.jpg "Header")](https://andreamyers.netlify.app/)
 
-## Hi, I'm Andrea!
-
 <img align="right" src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="400" height="auto" />
 
 
