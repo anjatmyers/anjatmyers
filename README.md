@@ -2,6 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="400" height="auto" />
 
+<br/>
 
 ### 📫 Connect with me: 
 
@@ -23,7 +24,7 @@
 
 
 ## Languages and Tools:
-><sup> JavaScript, React/Redux, JQuery, Node.js, Express, Python, Sequelize, PostgreSQL, AWS, HTML, CSS, Bootstrap, Flexbox</sup>
+><sup> JavaScript, React/Redux, JQuery, Node.js, Express, Python, Sequelize, PostgreSQL, AWS, HTML, CSS, SASS, Bootstrap, Flexbox, Github</sup>
 
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
