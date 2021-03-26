@@ -40,7 +40,7 @@
 
 
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjatmyers&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjatmyers&layout=compact)](https://github.com/anjatmyers/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjatmyers&layout=compact&theme=vue)](https://github.com/anjatmyers/github-readme-stats)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjatmyers&repo=capstone)](https://github.com/anjatmyers/capstone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjatmyers&repo=uvsafe)](https://github.com/anjatmyers/uvsafe) -->
