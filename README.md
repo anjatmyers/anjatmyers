@@ -9,6 +9,13 @@
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://andreamyers.netlify.app/)
 [<img align="left" alt="codeSTACKr | YouTube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCx4lsLytvxj2UNCUuqRnMSw/videos)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/andreatmyers5/)
+
+<br />
+<br/>
+
+> I am a junior software engineer. I am passionate about 
+
+
 <br />
 <br/>
 <br/>
@@ -19,6 +26,8 @@
 <!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
+<br />
+<br />
 <br />
 <br />
 
@@ -43,8 +52,11 @@
 
 <br />
 <br />
+<br />
+
 
 >
+
 
 
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjatmyers&show_icons=true&theme=vue)
